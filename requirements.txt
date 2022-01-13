@@ -3,6 +3,7 @@ attrs==21.2.0
 Automat==20.2.0
 certifi==2021.10.8
 cffi==1.15.0
+chromedriver-binary==98.0.4758.48.0
 constantly==15.1.0
 cryptography==36.0.1
 cssselect==1.1.0
